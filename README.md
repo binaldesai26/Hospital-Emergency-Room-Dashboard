@@ -1,6 +1,6 @@
 # 🛒 Ecommerce Sales Analysis Dashboard
 
-![Dashboard Preview](Ecommerce_Sales_Analysis_Dashboard.jpg)
+![Dashboard Preview](Hospital_Emergency_Room_Dashboard.jpg)
 
 ## 📊 Project Overview
 
