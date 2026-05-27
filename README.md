@@ -63,7 +63,7 @@ An interactive **Ecommerce Sales Analysis Dashboard** built in **Microsoft Excel
 
 ## 🚀 How to Use
 
-1. Download the `Hospital Emergency Room Data.csv` file
+1. Download the `Hospital_Emergency_Room_Data.csv` file
 2. Open it in **Microsoft Excel** (2016 or later recommended)
 3. Use the **slicers** on the right side to filter by Year, Region, or Segment
 4. All charts and KPIs will update dynamically based on your selection
@@ -72,7 +72,7 @@ An interactive **Ecommerce Sales Analysis Dashboard** built in **Microsoft Excel
 
 ## 👩‍💼 About the Author
 
-**Binal** — Aspiring Data Analyst passionate about turning raw data into meaningful business insights using Excel, and other analytics tools.
+**Binal Desai** — Aspiring Data Analyst passionate about turning raw data into meaningful business insights using Excel, and other analytics tools.
 
 📍 Vadodara, Gujarat, India
 
@@ -80,8 +80,8 @@ An interactive **Ecommerce Sales Analysis Dashboard** built in **Microsoft Excel
 
 ## 🤝 Connect With Me
 
-- 💼 [LinkedIn](#) ← *(Add your LinkedIn URL here)*
-- 📧 [Email](#) ← *(Add your Email here)*
+- 💼 [LinkedIn](#) ← *(https://www.linkedin.com/in/binalkdesai/))*
+- 📧 [Email](#) ← *(binaldesai26@gmail.com)*
 
 ---
 
